@@ -12,6 +12,7 @@
 		5017DC3B2277101A001B97E0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5017DC392277101A001B97E0 /* Main.storyboard */; };
 		5017DC3D2277101B001B97E0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5017DC3C2277101B001B97E0 /* Assets.xcassets */; };
 		5017DC402277101B001B97E0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5017DC3E2277101B001B97E0 /* LaunchScreen.storyboard */; };
+		509E1464244AB4D300007737 /* file_example_MP3_700KB.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 509E1463244AB4D300007737 /* file_example_MP3_700KB.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		5017DC3C2277101B001B97E0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5017DC3F2277101B001B97E0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5017DC412277101B001B97E0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		509E1463244AB4D300007737 /* file_example_MP3_700KB.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = file_example_MP3_700KB.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +40,7 @@
 		5017DC292277101A001B97E0 = {
 			isa = PBXGroup;
 			children = (
+				509E1463244AB4D300007737 /* file_example_MP3_700KB.mp3 */,
 				5017DC342277101A001B97E0 /* AudioPlayerSample */,
 				5017DC332277101A001B97E0 /* Products */,
 			);
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5017DC402277101B001B97E0 /* LaunchScreen.storyboard in Resources */,
+				509E1464244AB4D300007737 /* file_example_MP3_700KB.mp3 in Resources */,
 				5017DC3D2277101B001B97E0 /* Assets.xcassets in Resources */,
 				5017DC3B2277101A001B97E0 /* Main.storyboard in Resources */,
 			);
